@@ -1,4 +1,4 @@
-Job Application Tracker
+
 A modern, responsive web application to track and manage your job applications. Built with vanilla HTML, CSS, and JavaScript - perfect for showcasing frontend development skills.
 
 🚀 Features
